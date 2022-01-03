@@ -1,23 +1,23 @@
-lottoszamok=[2,45,23,9,64]
+lottoszamokk=[2,45,23,9,64]
 
-print(lottoszamok[0])
-print(lottoszamok[2])
+print(lottoszamokk[0])
+print(lottoszamokk[2])
 
-print(len(lottoszamok))
+print(len(lottoszamokk))
 
-print(lottoszamok)
+print(lottoszamokk)
 
-lottoszamok.sort()
-print(lottoszamok)
+lottoszamokk.sort()
+print(lottoszamokk)
 
-lottoszamok.reverse()
-print(lottoszamok)
+lottoszamokk.reverse()
+print(lottoszamokk)
 
-lottoszamok.append(90)
-print(lottoszamok)
+lottoszamokk.append(90)
+print(lottoszamokk)
 
-lottoszamok.pop(4)
-print(lottoszamok)
+lottoszamokk.pop(4)
+print(lottoszamokk)
 
 
 
